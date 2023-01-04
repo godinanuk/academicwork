@@ -1,4 +1,4 @@
-# machinelearning-telecomchurn
+# Classification - Telecom Churn
 Machine learning models for telecom churn
 
 This program will give you a glimpse of different algorithms / models, we can use for classification problem. Please note that we might see more algorithms which I haven't used or covered.  I have tried many or most of them but only included the ones which had earned their position for the dataset I have used.
@@ -15,6 +15,6 @@ In terms of run time taken by different algorithms:
 
 Please note results will be different for different datasets and also depends based on feature engineering and feature selection.
 
-# linearregression_carpriceprediction
+# linearregression - Car Price Prediction
 Car price prediction using Linear regression
 Python libraries used - numpy, pandas, matplotlib, seaborn and statsmodel

@@ -18,3 +18,9 @@ Please note results will be different for different datasets and also depends ba
 # Linear Regression - Car Price Prediction
 Car price prediction using Linear regression
 Python libraries used - numpy, pandas, matplotlib, seaborn and statsmodel
+
+# CycleGAN - MRIScan
+CycleGAN Style Transfer to generate T2 from T1 scans and viceversa
+
+Model to create T2 MRI image from T1 MRI Scan and viceversa using unet model.
+

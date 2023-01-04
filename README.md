@@ -15,3 +15,6 @@ In terms of run time taken by different algorithms:
 
 Please note results will be different for different datasets and also depends based on feature engineering and feature selection.
 
+# linearregression_carpriceprediction
+Car price prediction using Linear regression
+Python libraries used - numpy, pandas, matplotlib, seaborn and statsmodel
